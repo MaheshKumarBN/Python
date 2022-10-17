@@ -29,7 +29,4 @@ for i in range(2):
     left(68)
     forward(40)
     left(112)
-# forward(216)
-# left(68)
-# forward(40)
 end_fill()
